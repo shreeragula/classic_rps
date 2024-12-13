@@ -4,7 +4,7 @@
 A simple Python implementation of the classic **Rock Paper Scissors** game.
 
 ## How to Play
-1. Run the script: `python r_p_s.py`.
+1. Run the script: `rps_main.py`.
 2. Choose Rock (1), Paper (2), or Scissors (3).
 3. The computer makes a random choice.
 4. The winner is determined based on standard game rules.
